@@ -42,3 +42,7 @@ $code-block-bg: $cream; // code block background color
   max-width: unset !important;
   max-height: unset !important;
 }
+
+.rounded { // headshot shape
+    border-radius: 50px 20px 50px 20px !important;
+}
