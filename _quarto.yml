@@ -19,7 +19,7 @@ website:
   page-footer: 
     background: primary
     left: 
-      - text: "You can also find me here"
+      - text: "También me encuentras aquí"
       - icon: github
         href: https://github.com/crisnavarrete
       - icon: linkedin
