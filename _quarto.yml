@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: kirby1.png
+  navbar:
+    background: primary
+    logo: kirby2.png
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - posts.qmd
+      - text: "Publications"
+        file: publications.qmd
+      - href: CV_NavarreteC.pdf
+        text: CV
+  page-footer: 
+    background: primary
+    left: 
+      - text: "You can also find me here"
+      - icon: github
+        href: https://github.com/crisnavarrete
+      - icon: linkedin
+        href: linkedin.com/in/cristian-navarrete-116623216
+      - icon: twitter
+        href: https://twitter.com/navarreteoya
+
+format:
+  html:
+    theme:
+      - style.scss
+    toc: true
+
+editor: visual
+

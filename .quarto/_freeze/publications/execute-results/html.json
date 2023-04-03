@@ -1,0 +1,15 @@
+{
+  "hash": "67da8fd0fcd4981c97e603ef2af591ba",
+  "result": {
+    "markdown": "---\ntitle: Publications\necho: false\nsection-divs: false\nkeep-md: true\n---\n\n\n\n### 2023{#published-2023}\n```{=html}\n<ul class='list-group list-group-flush'><li class='list-group-item'>Dave Elder-Vass, Tom Fryer, Ruth Porter Groff, <strong>Cristián Navarrete</strong>, and Tobin Nelhaus. (2023) \"Does critical realism need the concept of three domains of reality? A roundtable. Journal of Critical Realism.\"<br><a class=\"btn btn-outline-dark btn-sm\", href=\"https://tandfonline.com/doi/full/10.1080/14767430.2023.2180965\" target=\"_blank\" rel=\"noopener noreferrer\">\n        <i class=\"ai ai-archive\" role='img' aria-label='Published'></i>\n        Published\n    </a></li></ul>\n```\n\n\n\n\n",
+    "supporting": [
+      "publications_files"
+    ],
+    "filters": [],
+    "includes": {
+      "include-in-header": [
+        "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js\" integrity=\"sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js\" integrity=\"sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==\" crossorigin=\"anonymous\"></script>\n<script type=\"application/javascript\">define('jquery', [],function() {return window.jQuery;})</script>\n"
+      ]
+    }
+  }
+}

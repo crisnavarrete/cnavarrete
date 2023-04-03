@@ -1,0 +1,44 @@
+/*-- scss:defaults --*/
+
+/*-- scss:defaults --*/
+
+/*-- scss:defaults --*/
+
+// Colors
+$light-sage-green: #D1D9CE;
+$dark-sage-green: #98A08D;
+$cream: #FDFBF7;
+$gray: #64605f;
+$light-gray: #949799;
+$purple: #AE8BD1;
+$beige: #DDD0C8;
+$dark-grey: #323232; 
+$narvik: #EAE7DD;
+$sorrel-brown: #99775C; 
+$light-pink: #F2D4D6;
+
+// Base document colors
+$navbar-bg: $beige; // navbar
+$navbar-hl: $purple; // highlight color when hovering over navbar links
+$footer-bg: $beige; // footer 
+$link-color: $purple; // hyperlinks 
+
+// Inline code
+$code-bg: $cream; // inline code background color
+$code-color: $purple; // inline code text color
+
+// Code blocks
+$code-block-bg: $cream; // code block background color
+
+/*-- scss:rules --*/
+
+.navbar {
+  height: 120px;
+}
+
+.navbar-logo {
+  height: 250px !important;
+  width: 250px!important;
+  max-width: unset !important;
+  max-height: unset !important;
+}

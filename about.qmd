@@ -1,0 +1,17 @@
+---
+title: "Contact"
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/navarreteoya
+    - icon: linkedin
+      text: LinkedIn
+      href: linkedin.com/in/cristian-navarrete-116623216
+    - icon: github
+      text: Github
+      href: https://github.com/crisnavarrete
+    - icon: envelope
+      text: "cristian.navarrete@uc.cl"
+---

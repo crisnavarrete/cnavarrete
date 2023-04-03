@@ -1,0 +1,26 @@
+---
+title: "Cristián Navarrete"
+image: profile.jpeg
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links: 
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/navarreteoya
+    - icon: linkedin
+      text: LinkedIn
+      href: linkedin.com/in/cristian-navarrete-116623216
+    - icon: github
+      text: Github
+      href: https://github.com/crisnavarrete
+    - icon: envelope
+      text: "cristian.navarrete@uc.cl"
+---
+
+I am a Master's researcher at the Sociology Institute of the Pontificia Universidad Católica de Chile. I'm interested in the nexus between science, health and society but I also love social theory and the philosophy of social sciences. While my theoretical interests have led me to think and work on the concept of emergence in the social sciences, my empirical research focuses on how does scientists working on Antimicrobial Resistance mobilize resources to impact target populations trough public policy interventions.
+
+I believe that one ought to know as many methods as possible to not be limited by them when questioning its object of study. Hence I' been trying to develop experience with multiple methods of research as well as its philosophical underpinnings. I'm quite interested in social network analysis and it potential to dialog with qualitative methods in social studies of science.
+
+I created this website both to share my career and thinking, so any comments to my blog entries are more than welcomed.

@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "a6939d57"
+  },
+  "about.qmd": {
+    "about.html": "e2f7a216"
+  },
+  "posts.qmd": {
+    "posts.html": "53a67cae"
+  },
+  "posts/02-04-2023-Ficciones/index.qmd": {
+    "index.html": "3950865d"
+  },
+  "publications.qmd": {
+    "publications.html": "2dd0b752"
+  }
+}
