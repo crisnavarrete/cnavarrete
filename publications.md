@@ -6,7 +6,14 @@ keep-md: true
 ---
 
 
+### 2023{#published-2024}
 
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'> <strong>Navarrete, C.</strong> & Fryer, T. (2024) Redefining emergence: Making the case for contextual emergence in critical realism. Journal for the Theory of Social Behaviour.<br><a class="btn btn-outline-dark btn-sm", href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsb.12414" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-archive" role='img' aria-label='Published'></i>
+        Published
+    </a></li></ul>
+```
 
 ### 2023{#published-2023}
 
