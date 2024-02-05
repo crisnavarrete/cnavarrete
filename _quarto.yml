@@ -24,6 +24,8 @@ website:
         href: https://github.com/crisnavarrete 
       - icon: linkedin
         href: linkedin.com/in/cristian-navarrete-116623216
+      - text: "{{< fa brands researchgate size=lg >}}"
+        href: https://www.researchgate.net/profile/Cristian-Navarrete-3
     
   page-footer: 
     background: primary
