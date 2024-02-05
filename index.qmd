@@ -3,8 +3,8 @@ title: "Cristián Navarrete"
 image: profile.jpeg
 about:
   template: trestles
-  image-shape: rounded
-  image-width: 15em
+  image-shape: round
+  image-width: 20em
   links: 
     - icon: twitter
       text: Twitter
@@ -18,7 +18,6 @@ about:
     - icon: envelope
       text: "cristian.navarrete@uc.cl"
 ---
-
 
 Soy sociólogo y mágister en sociología del Instituto de Sociología en la Pontificia Universidad Católica de Chile. Estoy interesado en el nexo entre ciencia, salud y sociedad, pero también me apasiona la teoría social y la filosofía de las ciencias sociales. Mientras mis intereses teóricos me han llevado a trabajar en el concepto de emergencia en las ciencias sociales, mi investigación empírica se concentra en la resistencia a antibióticos. 
 

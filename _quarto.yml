@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  
 
 website:
   favicon: kirby1.png
@@ -16,6 +17,9 @@ website:
         file: publications.qmd
       - href: CV_NavarreteC.pdf
         text: CV
+  twitter-card:
+    creator: "@navarreteoya"
+        
   page-footer: 
     background: primary
     left: 
@@ -32,6 +36,7 @@ format:
     theme:
       - style.scss
     toc: true
+
 
 editor: visual
 
