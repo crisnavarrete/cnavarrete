@@ -26,9 +26,11 @@ website:
         href: linkedin.com/in/cristian-navarrete-116623216
       - text: "{{< fa brands researchgate size=lg >}}"
         href: https://www.researchgate.net/profile/Cristian-Navarrete-3
-    
   page-footer: 
     background: primary
+    center: 
+      - text: "{{< fa plug size=lg >}} Powered by Quarto"
+        href: https://quarto.org 
 
 format:
   html:

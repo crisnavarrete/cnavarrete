@@ -5,6 +5,9 @@ about:
   template: trestles
   image-shape: round
   image-width: 20em
+  links: 
+    - icon: envelope
+      text: "cristian.navarrete@uc.cl"
 ---
 
 ```{=html}
