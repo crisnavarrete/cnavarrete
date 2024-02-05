@@ -17,6 +17,7 @@ website:
         file: publications.qmd
       - href: CV_NavarreteC.pdf
         text: CV
+  site-url: https://crisnavarrete.github.io/cnavarrete/
   twitter-card:
     creator: "@navarreteoya"
         
