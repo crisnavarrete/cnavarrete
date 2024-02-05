@@ -17,20 +17,16 @@ website:
         file: publications.qmd
       - href: CV_NavarreteC.pdf
         text: CV
-  site-url: https://crisnavarrete.github.io/cnavarrete/
-  twitter-card:
-    creator: "@navarreteoya"
-        
-  page-footer: 
-    background: primary
-    left: 
-      - text: "También me encuentras aquí"
-      - icon: github
-        href: https://github.com/crisnavarrete
-      - icon: linkedin
-        href: linkedin.com/in/cristian-navarrete-116623216
+    right: 
       - icon: twitter
         href: https://twitter.com/navarreteoya
+      - icon: github
+        href: https://github.com/crisnavarrete 
+      - icon: linkedin
+        href: linkedin.com/in/cristian-navarrete-116623216
+    
+  page-footer: 
+    background: primary
 
 format:
   html:

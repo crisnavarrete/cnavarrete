@@ -5,23 +5,40 @@ about:
   template: trestles
   image-shape: round
   image-width: 20em
-  links: 
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/navarreteoya
-    - icon: linkedin
-      text: LinkedIn
-      href: linkedin.com/in/cristian-navarrete-116623216
-    - icon: github
-      text: Github
-      href: https://github.com/crisnavarrete
-    - icon: envelope
-      text: "cristian.navarrete@uc.cl"
 ---
 
-Soy sociólogo y mágister en sociología del Instituto de Sociología en la Pontificia Universidad Católica de Chile. Estoy interesado en el nexo entre ciencia, salud y sociedad, pero también me apasiona la teoría social y la filosofía de las ciencias sociales. Mientras mis intereses teóricos me han llevado a trabajar en el concepto de emergencia en las ciencias sociales, mi investigación empírica se concentra en la resistencia a antibióticos. 
+```{=html}
+<style>
+  .goog-te-banner-frame {
+  display: none;
+  margin-top: -20px;
+  }
+  .goog-logo-link{
+  display: none !important;
+  }
+  .goog-te-gadget{
+  color: transparent !important;
+  }
+  .VIpgJd-ZVi9od-l4eHX-hSRGPd {
+  display: none !important;
+  }
+</style>
 
-Cree esta página para compartir mi carrera y mi pensamiento, por lo que cualquier contacto o comentario a las entradas de blog son más que bienvenidas
+<div id="google_translate_element"></div> 
 
+<script src="script.js"></script>
+      <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement(
+                {pageLanguage: 'en'},
+                'google_translate_element'
+            );
+        } 
+  </script>
+  <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
+```
 
+I am a sociologist and Master in Sociology from the Institute of Sociology at the Pontificia Universidad Católica de Chile. I am interested in the nexus between science, health, and society, but I am also passionate about social theory and the philosophy of social sciences. While my theoretical interests have led me to work on the concept of emergence in the social sciences, my empirical research focuses on antimicrobial resistance.
+
+I created this page to share my career and thoughts, so any contact or comments are more than welcome. Posts may be in Spanish or English, depending on the topic and my mood. 
