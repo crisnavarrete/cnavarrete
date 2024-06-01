@@ -67,7 +67,6 @@ for _, data in yaml_data.items():
         )
 ```
 
-
 ```{python}
 #| label: "published-year"
 #| id: "published-year"
@@ -78,7 +77,6 @@ for year in sorted(pub_strs["pubs"].keys(), reverse=True):
         "<ul class='list-group list-group-flush'>" + '\n'.join(pub_strs["pubs"][year]) + "</ul>"
     ))
 ```
-
 
 ```{python}
 #| label: "not-published-year"
