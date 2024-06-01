@@ -1,0 +1,11 @@
+{
+  "hash": "485241f05a6330c2df43e44cb0d4a949",
+  "result": {
+    "markdown": "---\ntitle: \"Cristián Navarrete\"\nimage: profile.jpeg\nabout:\n  template: trestles\n  image-shape: rounded\n  image-width: 15em\n  links: \n    - icon: twitter\n      text: Twitter\n      href: https://twitter.com/navarreteoya\n    - icon: linkedin\n      text: LinkedIn\n      href: linkedin.com/in/cristian-navarrete-116623216\n    - icon: github\n      text: Github\n      href: https://github.com/crisnavarrete\n    - icon: envelope\n      text: \"cristian.navarrete@uc.cl\"\n---\n\n<div id=\"google_translate_element\"></div> \n\n```{js}\n<script src=\"script.js\"></script>\n      <script type=\"text/javascript\">\n        function googleTranslateElementInit() {\n            new google.translate.TranslateElement(\n                {pageLanguage: 'en'},\n                'google_translate_element'\n            );\n        } \n  </script>\n  <script type=\"text/javascript\" src=\"https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>\n  \n```\n\n\n\nSoy sociólogo y mágister en sociología del Instituto de Sociología en la Pontificia Universidad Católica de Chile. Estoy interesado en el nexo entre ciencia, salud y sociedad, pero también me apasiona la teoría social y la filosofía de las ciencias sociales. Mientras mis intereses teóricos me han llevado a trabajar en el concepto de emergencia en las ciencias sociales, mi investigación empírica se concentra en la resistencia a antibióticos. \n\nCree esta página para compartir mi carrera y mi pensamiento, por lo que cualquier contacto o comentario a las entradas de blog son más que bienvenidas\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
