@@ -5,7 +5,7 @@
 
 .navbar-logo {
   height: 250px !important;
-  width: 250px!important;
+  width: 250px !important;
   max-width: unset !important;
   max-height: unset !important;
 }
@@ -16,6 +16,7 @@
   width: 100%;
   object-fit: contain;
 }
+
 
 .rounded { // headshot shape
     border-radius: 50px 20px 50px 20px !important;
