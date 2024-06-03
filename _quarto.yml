@@ -11,8 +11,8 @@ website:
   repo-url: https://github.com/crisnavarrete/cnavarrete
   navbar:
     background: none
-    logo: logo.png
     search: true
+    logo: logo.png
     collapse-below: lg
     pinned: false
     left:
