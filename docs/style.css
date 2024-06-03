@@ -1,0 +1,35 @@
+
+.navbar {
+  height: 120px;
+}
+
+img[src$='logo.png'] {
+    width: 250px; /* Adjust the width of the logo as needed */
+    height: auto; /* Maintain aspect ratio */
+    max-width: unset;
+    max-height: unset;
+}
+
+.navbar-logo img {
+  display: block; /* Ensure no extra space below the image */
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+
+.rounded { // headshot shape
+    border-radius: 50px 20px 50px 20px !important;
+}
+
+.subtitle{
+  text-align: center !important
+}
+
+.center {
+  text-align: center !important
+}
+
+.justify {
+  text-align: justify !important
+}

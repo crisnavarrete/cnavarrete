@@ -54,12 +54,11 @@ format:
     reference-location: margin
     footnotes-hover: true
     highlight-style: monokai
-    css: style.scss
+    css: style.css
     grid:
       sidebar-width: 250px
       body-width: 1000px
       margin-width: 250px
-
 
 editor: visual
 
