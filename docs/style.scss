@@ -19,6 +19,13 @@
   max-height: unset !important;
 }
 
+.navbar-logo img {
+  display: block; /* Ensure no extra space below the image */
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
 .rounded { // headshot shape
     border-radius: 50px 20px 50px 20px !important;
 }
@@ -35,9 +42,4 @@
   text-align: justify !important
 }
 
-@media (max-width: 767.98px) {
-  .navbar-collapse .navbar-nav.navbar-nav-scroll.ms-auto {
-    display: flex;
-    flex-direction: row;
-  }
 }
