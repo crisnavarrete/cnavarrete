@@ -12,6 +12,7 @@ about:
 include-before-body: 
   - html/translate_button.qmd
   - html/carousel_principal.html
+  - header.html
 ---
 
 I am a sociologist and Master of research in Sociology graduate from Pontificia Universidad Católica de Chile. I am interested in the nexus between science, health, and society, but I am also passionate about social theory and the philosophy of social sciences. While my theoretical interests have led me to work on causality and realism in sociology, my empirical research focuses on antimicrobial resistance.
