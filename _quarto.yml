@@ -12,9 +12,11 @@ website:
   navbar:
     background: none
     search: true
-    logo: logo.png
     collapse-below: lg
     pinned: false
+    logo: logo.png
+    logo-widht: 250 px
+    logo-height: auto
     left:
       - text: "Home"
         file: index.qmd
