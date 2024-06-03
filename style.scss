@@ -3,11 +3,11 @@
   height: 120px;
 }
 
-.navbar-logo {
-  height: 250px !important;
-  width: 250px !important;
-  max-width: unset !important;
-  max-height: unset !important;
+img[src$='logo.png'] {
+    width: 250px; /* Adjust the width of the logo as needed */
+    height: auto; /* Maintain aspect ratio */
+    max-width: unset;
+    max-height: unset;
 }
 
 .navbar-logo img {
