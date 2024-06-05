@@ -7,6 +7,7 @@ lang: en
 
 website:
   favicon: kirby1.png
+  google-analytics: "G-2VZVNV14SN"
   site-url: https://crisnavarrete.github.io/cnavarrete/
   repo-url: https://github.com/crisnavarrete/cnavarrete
   navbar:
