@@ -35,7 +35,7 @@ website:
       - text: "{{< fa brands researchgate size=lg >}}"
         href: https://www.researchgate.net/profile/Cristian-Navarrete-3
       - text: "{{< fa brands orcid >}}"
-        href: https://orcid.org/my-orcid?orcid=0000-0001-5900-5373 
+        href: https://orcid.org/0000-0001-5900-5373 
   page-footer: 
     background: primary
     center: 
