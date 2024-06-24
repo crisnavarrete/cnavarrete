@@ -20,10 +20,10 @@ website:
     logo-widht: 250 px
     logo-height: auto
     left:
-      - text: "Home"
+      - text: "HOME"
         file: index.qmd
       - posts.qmd
-      - text: "Publications"
+      - text: "PUBLICATIONS"
         file: publications.qmd
       - href: CV_NavarreteC.pdf
         text: CV
