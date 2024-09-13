@@ -44,9 +44,7 @@ website:
 
 format:
   html:
-    theme:
-      dark: [darkly, custom-dark.scss]
-      light: [flatly, custom.scss]
+    theme: darkly
     toc: true
     code-copy: true
     code-link: true
