@@ -1,6 +1,7 @@
 ---
-title: Publications
+title: "Publications"
 echo: false
+jupyter: python3
 section-divs: false
 keep-md: true
 ---
@@ -8,6 +9,7 @@ keep-md: true
 
 
 
+::: {#published-year .cell execution_count=2}
 ### 2024{#published-2024}
 
 ```{=html}
@@ -29,3 +31,9 @@ keep-md: true
         Published
     </a></li></ul>
 ```
+
+:::
+
+
+
+

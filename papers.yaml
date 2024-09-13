@@ -1,14 +1,37 @@
+Antibioceno:
+  title: "Desplazando escalas y temporalidades: Desafíos socioecológicos del Antibioceno al debate ambiental"
+  authors:
+    - me
+  year: 2024
+  published_url: https://cuadernosdeteoriasocial.udp.cl/index.php/tsocial/article/view/159
+
+Why:
+  title: "ScholarOne - Answering “why” beyond causality: exploring (non) causal explanation in qualitative research"
+  authors:
+    - me
+  year: 2024
+  preprint: https://advance.sagepub.com/doi/full/10.31124/advance.172427543.34805937 
+
+guide:
+  title: "A short guide to ontology and epistemology: Why everyone should be a realist (Third edition)"
+  authors:
+    - Fryer, T. 
+    - me
+  published_url: https://tfryer.com
+  year: 2024
+
 emergence: 
-  title: "Redefining emergence: Making the case for contextual emergence in critical realism. Journal for the Theory of Social Behaviour"
+  title: "Redefining emergence: Making the case for contextual emergence in critical realism"
   authors:
     - me
     - Fryer, T.
   year: 2024
   preprint: 
   published_url: https://onlinelibrary.wiley.com/doi/abs/10.1111/jtsb.12414
+  journal: "Journal for the Theory of Social Behaviour"
 
 domains:
-  title: "Does critical realism need the concept of three domains of reality? A roundtable. Journal of Critical Realism"
+  title: "Does critical realism need the concept of three domains of reality? A roundtable"
   authors:
     - Dave Elder-Vass
     - Tom Fryer
