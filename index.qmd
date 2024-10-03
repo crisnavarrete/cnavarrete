@@ -8,7 +8,7 @@ about:
   image-width: 20em
   links: 
     - icon: envelope
-      text: "cristian.navarrete@uc.cl"
+      text: "cristian.navarrete@alumni.uc.cl"
 include-before-body: 
   - html/translate_button.qmd
   - html/carousel_principal.html
