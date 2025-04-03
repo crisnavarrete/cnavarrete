@@ -1,0 +1,31 @@
+---
+title: "Classes & Syllabi"
+format:
+  html:
+    theme: flatly
+    toc: true
+    toc-title: "Contents"
+---
+
+## Taught classes {.mt-4}
+
+These are classes I have personally taught and delivered in academic settings.
+
+### Teoría sociológica contemporánea <span class="badge bg-success">Taught</span>
+
+- **Institution:** Universidad de Chile  
+- **Level:** Graduate
+- **Syllabus:** [Download PDF](C:/Users/crisn/OneDrive/Escritorio/Documentos personales/Web/Website/classes/Teoría_cont.pdf)
+- **Taught with:** [Dr. Fernando Campos Medina](https://facso.uchile.cl/sociologia/cuerpo-academico/fernando-campos)
+
+
+## Developed classes {.mt-5}
+
+These are syllabi I’ve designed out of personal interest but haven’t had the chance to taught yet
+
+### ¿Qué puedo hacer con mis casos? Debates y técnicas contemporáneas en explicación y generalización cualitativa<span class="badge bg-secondary">Prepared</span>
+
+- **Format:** Graduate seminar module  
+- **Syllabus:** [Download PDF](C:/Users/crisn/OneDrive/Escritorio/Documentos personales/Web/Website/classes/Optativo_Cuali_Casos.pdf)
+
+---

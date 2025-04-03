@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://crisnavarrete.github.io/cnavarrete/index.html</loc>
-    <lastmod>2024-10-03T21:49:12.176Z</lastmod>
+    <lastmod>2025-04-03T19:54:05.108Z</lastmod>
   </url>
   <url>
     <loc>https://crisnavarrete.github.io/cnavarrete/html/translate_button.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://crisnavarrete.github.io/cnavarrete/publications.html</loc>
-    <lastmod>2024-09-13T15:35:51.076Z</lastmod>
+    <lastmod>2025-04-03T19:54:10.507Z</lastmod>
   </url>
   <url>
     <loc>https://crisnavarrete.github.io/cnavarrete/posts.html</loc>
@@ -19,5 +19,9 @@
   <url>
     <loc>https://crisnavarrete.github.io/cnavarrete/Publications/publications.html</loc>
     <lastmod>2024-09-13T14:23:27.079Z</lastmod>
+  </url>
+  <url>
+    <loc>https://crisnavarrete.github.io/cnavarrete/classes.html</loc>
+    <lastmod>2025-04-03T20:27:21.783Z</lastmod>
   </url>
 </urlset>

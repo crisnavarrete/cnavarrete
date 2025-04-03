@@ -14,7 +14,19 @@ keep-md: true
 ### 2024{#published-2024}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2024) "Desplazando escalas y temporalidades: Desafíos socioecológicos del Antibioceno al debate ambiental." <em>Cuadernos de Teoría Social</em><br>
+<ul class='list-group list-group-flush'><li class='list-group-item'>Fryer, T and <strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2024) "Revisiting Realist Theory of Science: A practical guide." <em>Educational Resource</em><br>
+    <a class="btn btn-custom", href="https://www.researchgate.net/publication/388491020_Revisiting_Realist_Theory_of_Science_A_practical_guide" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='Go to published version'></i>
+        Go to published version
+    </a>
+    </li>
+<li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2024) "Rearticulating Realism: Chains of Reference and Epistemic Success in the Sciences." <em>Sociological Theory</em><br>
+    <a class="btn btn-custom", href="https://journals.sagepub.com/doi/10.1177/07352751241291831" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='Go to published version'></i>
+        Go to published version
+    </a>
+    </li>
+<li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2024) "Desplazando escalas y temporalidades: Desafíos socioecológicos del Antibioceno al debate ambiental." <em>Cuadernos de Teoría Social</em><br>
     <a class="btn btn-custom", href="https://cuadernosdeteoriasocial.udp.cl/index.php/tsocial/article/view/159" target="_blank" rel="noopener noreferrer">
         <i class="bi bi-file-earmark-pdf" role='img' aria-label='Go to published version'></i>
         Go to published version
@@ -54,9 +66,18 @@ keep-md: true
 :::
 
 
-::: {#not-published-year .cell execution_count=3}
-## Not published
-### 2024{#not-published-2024}
+::: {#working-papers-year .cell execution_count=3}
+## Working Papers
+### 2025{#working-papers-2025}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2025) "Social systems (again)! How we actually make explanations and generalizations about social life."<br></li>
+<li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>, Campos-Medina, F., and Ojeda-Pereira, I.. (2025) "Opening the Methodological Black Box in Science and Technology Studies of the Future(s). Shadows and Proposals."<br></li>
+<li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>, Campos-Medina, F., and Ojeda-Pereira, I.. (2025) "Exploring the Future in Science and Technology Studies (STS): History, Approaches and Challenges."<br></li>
+<li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2025) "Labor, gender and errors: Uncertainty’s generalized yet differential experience in antimicrobial resistance laboratory work."<br></li></ul>
+```
+
+### 2024{#working-papers-2024}
 
 ```{=html}
 <ul class='list-group list-group-flush'><li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2024) "ScholarOne - Answering “why” beyond causality: exploring (non) causal explanation in qualitative research." <em>Advance</em><br>

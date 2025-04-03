@@ -1,3 +1,48 @@
+SocialSystems:
+  title: "Social systems (again)! How we actually make explanations and generalizations about social life"
+  authors:
+    - me
+  year: 2025
+
+FutureSTS1:
+  title: "Opening the Methodological Black Box in Science and Technology Studies of the Future(s). Shadows and Proposals"
+  authors:
+    - me
+    - Campos-Medina, F.
+    - Ojeda-Pereira, I.
+  year: 2025
+
+FutureSTS2:
+  title: "Exploring the Future in Science and Technology Studies (STS): History, Approaches and Challenges"
+  authors:
+    - me
+    - Campos-Medina, F.
+    - Ojeda-Pereira, I.
+  year: 2025
+
+LabGenderErrors:
+  title: "Labor, gender and errors: Uncertainty’s generalized yet differential experience in antimicrobial resistance laboratory work"
+  authors:
+    - me
+  year: 2025
+
+RTSRevisited:
+  title: "Revisiting Realist Theory of Science: A practical guide"
+  authors:
+    - Fryer, T
+    - me
+  year: 2024
+  published_url: https://www.researchgate.net/publication/388491020_Revisiting_Realist_Theory_of_Science_A_practical_guide
+  venue: "Educational Resource"
+
+Realism:
+  title: "Rearticulating Realism: Chains of Reference and Epistemic Success in the Sciences"
+  authors:
+    - me
+  year: 2024
+  published_url: https://journals.sagepub.com/doi/10.1177/07352751241291831
+  venue: "Sociological Theory"
+
 Antibioceno:
   title: "Desplazando escalas y temporalidades: Desafíos socioecológicos del Antibioceno al debate ambiental"
   authors:
