@@ -25,7 +25,7 @@ website:
       - posts.qmd
       - text: "PUBLICATIONS"
         file: publications.qmd
-      - text: "CLASSES"
+      - text: "CLASSES & SYLLABI"
         file: classes.qmd
       - href: NavarreteC_CV.pdf
         text: CV
