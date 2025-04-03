@@ -67,4 +67,27 @@ img[src$='logo.png'] {
     color: ##01B587 !important; /* Mint color */
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
+html, body {
+  height: auto !important;
+  overflow-y: auto !important;
+}
+
+main, .content, .page {
+  overflow: visible !important;
+}
+
+.section {
+  scroll-margin-top: 100px;
+  padding-top: 40px;
+}
+
+@media screen and (max-height: 100vh) {
+  html, body {
+    height: auto;
+    overflow-y: auto;
+  }
+}

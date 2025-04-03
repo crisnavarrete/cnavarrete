@@ -14,8 +14,14 @@ include-before-body:
   - html/carousel_principal.html
 ---
 
+------------------------------------------------------------------------
+
+# Welcome
+
 I am a sociologist and hold an MA in Sociology from the Pontificia Universidad Católica de Chile. My academic interests lie at the intersection of science, health, and society. I am also deeply engaged with social theory and the philosophy of the social sciences.
 
 Theoretically, my work has focused on issues of causality and realism in sociology, while my empirical research has centered on antimicrobial resistance. In October 2025, I will begin my PhD at the University of Oxford, where I will explore the intersections between the mining industry, ecology, and health.
 
 I created this page to share my research, reflections, and career updates. Comments and contact are always welcome. Posts may appear in either Spanish or English, depending on the topic and my mood. If you're interested in any of my papers, feel free to reach out. Working papers are either under-review or developed enough for me to share and discuss :)
+
+------------------------------------------------------------------------
