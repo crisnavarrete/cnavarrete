@@ -15,7 +15,7 @@ These are classes I have personally taught and delivered in academic settings.
 
 - **Institution:** Universidad de Chile  
 - **Level:** Graduate
-- **Syllabus:** [Download PDF](classes/Teoría_cont.pdf)
+- **Syllabus:** [Download PDF](classes/teoria-cont.pdf)
 - **Taught with:** [Dr. Fernando Campos Medina](https://facso.uchile.cl/sociologia/cuerpo-academico/fernando-campos)
 
 
@@ -26,6 +26,6 @@ These are syllabi I’ve designed out of personal interest but haven’t had the
 ### ¿Qué puedo hacer con mis casos? Debates y técnicas contemporáneas en explicación y generalización cualitativa<span class="badge bg-secondary">Prepared</span>
 
 - **Format:** Graduate seminar module  
-- **Syllabus:** [Download PDF](classes/Optativo_Cuali_Casos.pdf)
+- **Syllabus:** [Download PDF](classes/cuali-casos.pdf)
 
 ---
