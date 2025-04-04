@@ -2,5 +2,11 @@
   {
     "listing": "/posts.html",
     "items": []
+  },
+  {
+    "listing": "/classes.html",
+    "items": [
+      "/classes/Teoria-cont-uch/index.html"
+    ]
   }
 ]

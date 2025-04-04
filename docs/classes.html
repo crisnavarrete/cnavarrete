@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Classes &amp; Syllabi</title>
+<title>CLASSES &amp; SYLLABI</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./kirby1.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-2VZVNV14SN"></script>
 
 <script type="text/javascript">
@@ -79,6 +110,35 @@ gtag('js', new Date());
 gtag('config', 'G-2VZVNV14SN', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="style.css">
 </head>
@@ -152,27 +212,14 @@ gtag('config', 'G-2VZVNV14SN', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Contents</h2>
-   
-  <ul>
-  <li><a href="#taught-classes" id="toc-taught-classes" class="nav-link active" data-scroll-target="#taught-classes">Taught classes</a>
-  <ul class="collapse">
-  <li><a href="#teoría-sociológica-contemporánea-taught" id="toc-teoría-sociológica-contemporánea-taught" class="nav-link" data-scroll-target="#teoría-sociológica-contemporánea-taught">Teoría sociológica contemporánea <span class="badge bg-success">Taught</span></a></li>
-  </ul></li>
-  <li><a href="#developed-classes" id="toc-developed-classes" class="nav-link" data-scroll-target="#developed-classes">Developed classes</a>
-  <ul class="collapse">
-  <li><a href="#qué-puedo-hacer-con-mis-casos-debates-y-técnicas-contemporáneas-en-explicación-y-generalización-cualitativaprepared" id="toc-qué-puedo-hacer-con-mis-casos-debates-y-técnicas-contemporáneas-en-explicación-y-generalización-cualitativaprepared" class="nav-link" data-scroll-target="#qué-puedo-hacer-con-mis-casos-debates-y-técnicas-contemporáneas-en-explicación-y-generalización-cualitativaprepared">¿Qué puedo hacer con mis casos? Debates y técnicas contemporáneas en explicación y generalización cualitativa<span class="badge bg-secondary">Prepared</span></a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Currently teaching">Currently teaching <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Classes &amp; Syllabi</h1>
+<h1 class="title">CLASSES &amp; SYLLABI</h1>
 </div>
 
 
@@ -189,37 +236,143 @@ gtag('config', 'G-2VZVNV14SN', { 'anonymize_ip': true});
 </header>
 
 
-<section id="taught-classes" class="level2 mt-4">
-<h2 class="mt-4 anchored" data-anchor-id="taught-classes">Taught classes</h2>
-<p>These are classes I have personally taught and delivered in academic settings.</p>
-<section id="teoría-sociológica-contemporánea-taught" class="level3">
-<h3 class="anchored" data-anchor-id="teoría-sociológica-contemporánea-taught">Teoría sociológica contemporánea <span class="badge bg-success">Taught</span></h3>
-<ul>
-<li><strong>Institution:</strong> Universidad de Chile<br>
-</li>
-<li><strong>Level:</strong> Graduate</li>
-<li><strong>Syllabus:</strong> <a href="classes/teoria-cont.pdf">Download PDF</a></li>
-<li><strong>Taught with:</strong> <a href="https://facso.uchile.cl/sociologia/cuerpo-academico/fernando-campos">Dr.&nbsp;Fernando Campos Medina</a></li>
-</ul>
-</section>
-</section>
-<section id="developed-classes" class="level2 mt-5">
-<h2 class="mt-5 anchored" data-anchor-id="developed-classes">Developed classes</h2>
-<p>These are syllabi I’ve designed out of personal interest but haven’t had the chance to taught yet</p>
-<section id="qué-puedo-hacer-con-mis-casos-debates-y-técnicas-contemporáneas-en-explicación-y-generalización-cualitativaprepared" class="level3">
-<h3 class="anchored" data-anchor-id="qué-puedo-hacer-con-mis-casos-debates-y-técnicas-contemporáneas-en-explicación-y-generalización-cualitativaprepared">¿Qué puedo hacer con mis casos? Debates y técnicas contemporáneas en explicación y generalización cualitativa<span class="badge bg-secondary">Prepared</span></h3>
-<ul>
-<li><strong>Format:</strong> Graduate seminar module<br>
-</li>
-<li><strong>Syllabus:</strong> <a href="classes/cuali-casos.pdf">Download PDF</a></li>
-</ul>
-<hr>
 
 
-</section>
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1743710825931">
+<a href="./classes\Optativo_Cuali_Casos.docx" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1743711799647">
+<a href="./classes\Teoria-cont-uch\Teoría_cont.docx" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1741904510534">
+<a href="./classes\Teoria-cont-uch\contemp.jpg" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1743771060959">
+<a href="./classes\Teoria-cont-uch\index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1743711795410">
+<a href="./classes\Teoria-cont-uch\teoria-cont.pdf" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1743710821240">
+<a href="./classes\cuali-casos.pdf" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Currently teaching" data-listing-date-sort="1770087600000" data-listing-file-modified-sort="1743771059071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="40">
+<a href="./classes/Teoria-cont-uch/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./classes/Teoria-cont-uch/contemp.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Teoría sociológica contemporánea
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Currently teaching'); return false;">
+Currently teaching
+</div>
+</div>
+<div class="card-text listing-description">
+<span class="badge bg-success">Taught</span>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 3, 2026
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

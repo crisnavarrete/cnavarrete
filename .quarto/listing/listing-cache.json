@@ -2,6 +2,10 @@
   "listingMap": {
     "posts.qmd": [
       "posts"
+    ],
+    "classes.qmd": [
+      "classes",
+      "classes/**"
     ]
   }
 }

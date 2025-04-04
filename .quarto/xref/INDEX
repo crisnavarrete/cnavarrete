@@ -28,5 +28,14 @@
   },
   "classes.qmd": {
     "classes.html": "fa006ffa"
+  },
+  "classes/Teoria-cont.qmd": {
+    "Teoria-cont.html": "2aee3813"
+  },
+  "classes/Teoria-cont-uch/index.qmd": {
+    "index.html": "b72f2a55"
+  },
+  "classes/Teoria-cont-uch/Teoria-cont.qmd": {
+    "Teoria-cont.html": "e19640d7"
   }
 }
