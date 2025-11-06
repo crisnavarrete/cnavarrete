@@ -13,5 +13,5 @@ about:
       text: Github
       href: https://github.com/crisnavarrete
     - icon: envelope
-      text: "cristian.navarrete@uc.cl"
+      text: "cristian.navarreteoyanedel@anthro.ox.ac.uk"
 ---

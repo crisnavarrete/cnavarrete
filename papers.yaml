@@ -1,5 +1,29 @@
-SocialSystems:
-  title: "Social systems (again)! How we actually make explanations and generalizations about social life"
+Extractivism:
+  title: "Extractive modalities: theorizing socio-environmental extractivism, its variation and shared features"
+  authors:
+    - Ojeda-Pereira, I.
+    - me
+  year: 2025
+
+Developmental:
+  title: "Energy transitions without a developmental State: building and anticipating a green hydrogen industry in Chilean Patagonia"
+  authors:
+    - Figueroa, R.
+    - me
+    - Campos-Medina, F.
+    - Ojeda-Pereira, I.
+  year: 2025
+
+ElMauro:
+  title: "The temporal dynamics of socio-environmental conflicts: D-escalation of media coverage on Los Pelambres’ copper mining tailing dams in Chile (2005-2024)"
+  authors:
+    - Campos-Medina, F. 
+    - me
+    - Ojeda-Pereira, I.
+  year: 2025
+  
+Mechs:
+  title: "Bridging mechanistic worlds: a minimalist solution for reintegrating sociological explanation"
   authors:
     - me
   year: 2025
@@ -11,6 +35,8 @@ FutureSTS1:
     - Campos-Medina, F.
     - Ojeda-Pereira, I.
   year: 2025
+  published_url: https://www.researchgate.net/publication/396268046_Opening_the_Methodological_Black_Box_in_Science_and_Technology_Studies_of_the_Futures_Shadows_and_Proposals
+  venue: "Futures"
 
 FutureSTS2:
   title: "Exploring the Future in Science and Technology Studies (STS): History, Approaches and Challenges"
@@ -21,7 +47,7 @@ FutureSTS2:
   year: 2025
 
 LabGenderErrors:
-  title: "Labor, gender and errors: Uncertainty’s generalized yet differential experience in antimicrobial resistance laboratory work"
+  title: "Generalized but differently organized: The scientific uncertainty of antimicrobial resistance laboratory work"
   authors:
     - me
   year: 2025
