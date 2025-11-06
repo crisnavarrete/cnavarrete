@@ -11,6 +11,17 @@ keep-md: true
 
 ::: {#published-year .cell execution_count=2}
 ## Published
+### 2025{#published-2025}
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>, Campos-Medina, F., and Ojeda-Pereira, I.. (2025) "Opening the Methodological Black Box in Science and Technology Studies of the Future(s). Shadows and Proposals." <em>Futures</em><br>
+    <a class="btn btn-custom", href="https://www.researchgate.net/publication/396268046_Opening_the_Methodological_Black_Box_in_Science_and_Technology_Studies_of_the_Futures_Shadows_and_Proposals" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-pdf" role='img' aria-label='Go to published version'></i>
+        Go to published version
+    </a>
+    </li></ul>
+```
+
 ### 2024{#published-2024}
 
 ```{=html}
@@ -71,10 +82,12 @@ keep-md: true
 ### 2025{#working-papers-2025}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2025) "Social systems (again)! How we actually make explanations and generalizations about social life."<br></li>
-<li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>, Campos-Medina, F., and Ojeda-Pereira, I.. (2025) "Opening the Methodological Black Box in Science and Technology Studies of the Future(s). Shadows and Proposals."<br></li>
+<ul class='list-group list-group-flush'><li class='list-group-item'>Ojeda-Pereira, I. and <strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2025) "Extractive modalities: theorizing socio-environmental extractivism, its variation and shared features."<br></li>
+<li class='list-group-item'>Figueroa, R., <strong style='color: #01B587 !important;'>Navarrete, C</strong>, Campos-Medina, F., and Ojeda-Pereira, I.. (2025) "Energy transitions without a developmental State: building and anticipating a green hydrogen industry in Chilean Patagonia."<br></li>
+<li class='list-group-item'>Campos-Medina, F., <strong style='color: #01B587 !important;'>Navarrete, C</strong>, and Ojeda-Pereira, I.. (2025) "The temporal dynamics of socio-environmental conflicts: D-escalation of media coverage on Los Pelambres’ copper mining tailing dams in Chile (2005-2024)."<br></li>
+<li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2025) "Bridging mechanistic worlds: a minimalist solution for reintegrating sociological explanation."<br></li>
 <li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>, Campos-Medina, F., and Ojeda-Pereira, I.. (2025) "Exploring the Future in Science and Technology Studies (STS): History, Approaches and Challenges."<br></li>
-<li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2025) "Labor, gender and errors: Uncertainty’s generalized yet differential experience in antimicrobial resistance laboratory work."<br></li></ul>
+<li class='list-group-item'><strong style='color: #01B587 !important;'>Navarrete, C</strong>. (2025) "Generalized but differently organized: The scientific uncertainty of antimicrobial resistance laboratory work."<br></li></ul>
 ```
 
 ### 2024{#working-papers-2024}
